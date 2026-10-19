@@ -1,16 +1,30 @@
-## Hi there 👋
+# Syed Abdul Samad Ahsan
 
-<!--
-**AbdulSamadAhsan/AbdulSamadAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer · PHP & Laravel
 
-Here are some ideas to get you started:
+I build web applications and APIs with PHP and Laravel, and explore full-stack development through React and JavaScript projects. My work includes e-commerce applications, admin dashboards, and custom MVC projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical focus
+
+- **Backend:** PHP, Laravel, Node.js, Express
+- **Frontend:** React, JavaScript, HTML, CSS, Blade
+- **Development:** Git, GitHub, Docker, Vercel
+
+## Selected projects
+
+| Project | Focus | Links |
+| --- | --- | --- |
+| **Laravel E-commerce** | E-commerce application built with Laravel and Blade | [Source](https://github.com/AbdulSamadAhsan/Ecommerce) |
+| **SHOP.CO Storefront** | React e-commerce storefront | [Source](https://github.com/AbdulSamadAhsan/ReactEcommerce) · [Demo](https://reactshopco.vercel.app) |
+| **SHOP.CO Admin** | E-commerce administration dashboard | [Source](https://github.com/AbdulSamadAhsan/Shopcoadmin) · [Demo](https://ecommercedashboard-amber.vercel.app) |
+| **SHOP.CO API** | Backend API for an e-commerce application | [Source](https://github.com/AbdulSamadAhsan/shopco-api) |
+
+## More of my work
+
+- [Laravel Social App](https://github.com/AbdulSamadAhsan/LaravelSocialApp) — social application project using Laravel.
+- [Docker & Laravel](https://github.com/AbdulSamadAhsan/Docker-Laravel) — exploring Laravel development with Docker.
+- [Authentication API](https://github.com/AbdulSamadAhsan/linkedin-auth-backend) — authentication backend using Node.js, Express, and MongoDB.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/syed-abdul-samad-laravel-dev-562123309) · [GitHub projects](https://github.com/AbdulSamadAhsan?tab=repositories)

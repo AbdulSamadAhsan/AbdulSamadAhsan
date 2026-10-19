@@ -1,8 +1,10 @@
 # Syed Abdul Samad Ahsan
 
-### Backend Developer · PHP & Laravel
+### PHP & Laravel Backend Developer · Karachi, Pakistan
 
-I build web applications and APIs with PHP and Laravel, and explore full-stack development through React and JavaScript projects. My work includes e-commerce applications, admin dashboards, and custom MVC projects.
+I’m Syed Abdul Samad Ahsan, a PHP and Laravel backend developer based in Karachi, Pakistan. I build web applications and REST APIs, with projects covering e-commerce, inventory and business workflows, social applications, and administration dashboards.
+
+My portfolio also includes React interfaces and Node.js/Express APIs. The projects below link to source code and available live demonstrations.
 
 ## Technical focus
 
